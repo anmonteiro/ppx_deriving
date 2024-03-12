@@ -1,5 +1,9 @@
-unreleased
+Unreleased
 ----------
+
+* Make show plugin backwards-compatible with arguments in signature
+  #TODO
+  (Simmo Saan)
 
 * Port standard plugins to ppxlib registration and attributes
   #263
